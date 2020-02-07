@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-a kévé minden
+a kévé minden.
